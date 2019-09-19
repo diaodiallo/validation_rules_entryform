@@ -1,0 +1,5 @@
+name: Data entry form validation rules
+type: module
+description: Check validation rules in the country data entry form
+core: 8.x
+package: Custom
